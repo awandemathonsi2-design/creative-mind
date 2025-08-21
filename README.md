@@ -28,3 +28,13 @@ plates.py - isalpha() checks that it's an alphabet
             isnumeric() checks if all the characters in the text are numeric (E.g 0 to 9, 2/3 but not -1 or 1.5)
 nutrition.py - 
 '''
+
+'''
+Good understanding of exceptions.
+fuel.py - ValueError exception occurs if a function receives a value of wrong type.
+          ZeroDivisionError is raised when a program attempts to perform a division operation where the denominator is zero.
+taqueria.py - KeyError exception occurs when you use a key on a dictionary, and the key does not exist.
+              EOFError is raised when the input() function hits an end-of-file condition (EOF) without reading any data.
+grocery.py - 
+outdated.py - {:.2f} displayed as a number with two decimals. {:02}
+'''
