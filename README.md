@@ -14,11 +14,11 @@ deep.py - I understand how to apply conditionals
 bank.py - startswith(value, start, end) method returns True if the string starts with the specified value, otherwise False.
 extensions.py - Match statement is neater and more readable than if statements
 interpreter.py - 
-meal.py - if __name__ == "__main__": 
+meal.py - if __name__ == "__main__":  prevent (certain) code from being run when the module is imported.
 '''
 
 '''
-Average understanding of loops: I didn't feel confident
+Good understanding of loops.
 camel.py - isupper() checks whether a string is uppercase. *Unfortunately the output and command prompt are on the same line.
 coke.py - When using the while True loop, use the break statement or return to exit the loop.
 twttr.py - 
