@@ -38,3 +38,13 @@ taqueria.py - KeyError exception occurs when you use a key on a dictionary, and 
 grocery.py - 
 outdated.py - {:.2f} displayed as a number with two decimals. {:02}
 '''
+
+'''
+Good understanding of libraries.
+emojize.py - 
+figlet.py - 
+adieu.py - inflect: Accurately generate plurals, singular nouns, ordinals, indefinite articles, and word-based representations of numbers. (1.Import inflect 2. p = inflect.engine())
+game.py - 
+professor.py - 
+bitcoin.py - raise_for_status(): Checks if any error occurred during the request. 1)Successful if it's between 200-299 2)Otherwise raises an HTTPError
+'''
