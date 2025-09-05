@@ -94,5 +94,5 @@ Good understanding of unit tests.
 test_twttr.py - assert: Allows us to tell the interpreter that something, some assertion, is true.
 test_bank.py - 
 test_plates.py - 
-test_fuel.py -
+test_fuel.py - pytest can check whether a function has raised an exception.
 '''
