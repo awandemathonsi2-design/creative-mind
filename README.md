@@ -88,3 +88,11 @@ game.py -
 professor.py - 
 bitcoin.py - raise_for_status(): Checks if any error occurred during the request. 1)Successful if it's between 200-299 2)Otherwise raises an HTTPError
 '''
+
+'''
+Good understanding of unit tests.
+test_twttr.py - assert: Allows us to tell the interpreter that something, some assertion, is true.
+test_bank.py - 
+test_plates.py - 
+test_fuel.py -
+'''
