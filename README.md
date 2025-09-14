@@ -18,7 +18,7 @@ meal.py - if __name__ == "__main__":
 '''
 
 '''
-Average understanding of loops: I didn't feel confident
+Good understanding of loops: I didn't feel confident but not I fully understand when and how to use different loops. 
 camel.py - isupper() checks whether a string is uppercase. *Unfortunately the output and command prompt are on the same line.
 coke.py - When using the while True loop, use the break statement or return to exit the loop.
 twttr.py - 
@@ -87,4 +87,20 @@ adieu.py - inflect: Accurately generate plurals, singular nouns, ordinals, indef
 game.py - 
 professor.py - 
 bitcoin.py - raise_for_status(): Checks if any error occurred during the request. 1)Successful if it's between 200-299 2)Otherwise raises an HTTPError
+'''
+
+'''
+Good understanding of unit tests.
+test_twttr.py - assert: Allows us to tell the interpreter that something, some assertion, is true.
+test_bank.py - 
+test_plates.py - 
+test_fuel.py - pytest can check whether a function has raised an exception.
+'''
+
+'''
+Average understanding of file I/O. I'm unable to attempt problems confidently. Faced issues of FileNotFoundError however it's fixed without me knowing how exactly.
+lines.py - 
+pizza.py - 
+scourgify.py - 
+shirt.py - 
 '''
